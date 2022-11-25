@@ -25,4 +25,6 @@ To jest skomplikowany kawałek pracy z wieloma niewiadomymi i wymaga wielu zało
 ### Zagrożenie! 21" lub "34" 
 
 odzwierciedla zbyt dużą złożoność, aby można ją było wykonać w jednym Sprincie. Będzie trzeba go bardziej dopracować. Duży rozmiar wskazuje również na większe ryzyko, założenia i zależności związane z ukończeniem tego elementu.
-Niebezpieczeństwo! Jako Deweloper, nie chcemy wykonywać tej pracy w sposób, w jaki jest ona obecnie napisana. Jest ona bardzo złożona i nie może być ukończona w ramach czasowych iteracji lub Sprintu. Być może wymagania są tak rozmyte, że jest to obarczone niebezpieczeństwem.
+### Niebezpieczeństwo! 
+
+Jako Deweloper, nie chcemy wykonywać tej pracy w sposób, w jaki jest ona obecnie napisana. Jest ona bardzo złożona i nie może być ukończona w ramach czasowych iteracji lub Sprintu. Być może wymagania są tak rozmyte, że jest to obarczone niebezpieczeństwem.
